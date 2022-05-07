@@ -1,9 +1,5 @@
 # Wireless Buzzer System
 
-**Table of Contents**
-
-[TOC]
-
 ##Features
 - Standalone Wireless Buzzer System - One Host, Four Buzzers
 - 2.4GHz Wireless Transmission
