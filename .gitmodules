@@ -1,0 +1,6 @@
+[submodule "BuzzerHost24GHz/lib/RF24"]
+	path = BuzzerHost24GHz/lib/RF24
+	url = https://github.com/nRF24/RF24
+[submodule "BuzzerSend24/lib/RF24"]
+	path = BuzzerSend24/lib/RF24
+	url = https://github.com/nRF24/RF24
